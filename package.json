@@ -1,12 +1,16 @@
 {
   "name": "form-builder",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "Powerful tool designed to simplify the creation and management of forms for your web applications.",
   "strapi": {
     "name": "form-builder",
     "description": "Powerful tool designed to simplify the creation and management of forms for your web applications.",
     "kind": "plugin",
     "displayName": "Forms"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vivek-smartshore/strapi-plugin-npm.git"
   },
   "dependencies": {
     "@strapi/design-system": "1.19.0",
@@ -32,6 +36,7 @@
     "typescript": "5.5.4"
   },
   "peerDependencies": {
+    "@strapi/strapi": "^4.0.0",
     "qs": "^6.11.2",
     "react": "^17.0.0 || ^18.0.0",
     "react-dom": "^17.0.0 || ^18.0.0",
@@ -39,11 +44,15 @@
     "styled-components": "^5.2.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Smartshore",
+    "email": "vivek@smartshore.nl",
+    "url": "https://smartshore.nl"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Smartshore",
+      "email": "vivek@smartshore.nl",
+      "url": "https://smartshore.nl"
     }
   ],
   "engines": {
