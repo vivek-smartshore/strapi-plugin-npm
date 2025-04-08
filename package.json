@@ -1,6 +1,6 @@
 {
-  "name": "form-builder",
-  "version": "1.0.0",
+  "name": "strapi-form-builder",
+  "version": "1.0.1",
   "description": "Powerful tool designed to simplify the creation and management of forms for your web applications.",
   "strapi": {
     "name": "form-builder",
