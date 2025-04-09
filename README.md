@@ -1,6 +1,6 @@
 # Strapi Form Builder
 
-A powerful form-building plugin for Strapi CMS.
+A powerful form-building plugin for Strapi CMS, built by official and experienced Strapi partner Smartshore.
 
 ## 🚀 Installation
 
