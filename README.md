@@ -63,3 +63,8 @@ Here are some visual steps to guide you through setup:
 ### 2. Use Form Picker in Content Manager
 
 ![Use Form Picker](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/screenshots/select-form.png?raw=true)
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue to suggest features or report bugs.
+here: [GitHub Repository Link](https://github.com/vivek-smartshore/strapi-plugin-npm)
