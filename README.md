@@ -24,7 +24,7 @@ npm install @strapi/plugin-graphql@4.25.5
 yarn add @strapi/plugin-graphql@4.25.5
 ```
 
-### Requirements
+### 🔧 Requirements
 
 This plugin requires Strapi v4 and compatible Node.js versions:
 
@@ -34,7 +34,7 @@ This plugin requires Strapi v4 and compatible Node.js versions:
 
 Ensure your Node.js version matches the Strapi version you're using.
 
-### How to Add Form Picker to Page
+### 📑 How to Add Form Picker to Page
 
 1. Go to **Content-Type Builder**.
 2. Select the **Page** collection type.
@@ -44,7 +44,7 @@ Ensure your Node.js version matches the Strapi version you're using.
 6. Name the field `form_picker`.
 7. Finish and save the changes.
 
-### Using the Form Picker
+### 🖱️ Using the Form Picker
 
 1. Go to **Content Manager**.
 2. Select **Page** and edit an existing page.
@@ -52,7 +52,7 @@ Ensure your Node.js version matches the Strapi version you're using.
 
 Now, the selected form will be rendered on the page based on your choice.
 
-### 🛠️ Helpful Screenshots
+### 📸 Helpful Screenshots
 
 Here are some visual steps to guide you through setup:
 
