@@ -59,7 +59,7 @@ const Input: React.ForwardRefRenderFunction<HTMLSelectElement, InputProps> = (pr
   return (
     <CustomBox style={{ width: 'fit-content', minWidth: '300px' }}>
       <SingleSelect
-        label={formatMessage(intlLabel, 'Default label')}
+        label={formatMessage(intlLabel, 'Select Form')}
         placeholder={formatMessage('Select.Placeholder', 'Select Form')}
         onClear={handleClear}
         value={val}
