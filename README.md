@@ -34,13 +34,26 @@ This plugin requires Strapi v4 and compatible Node.js versions:
 
 Ensure your Node.js version matches the Strapi version you're using.
 
+### 📦 Environment Variables
+
+To enable email notifications for form submissions, add the following to your `.env` file:
+
+- TO_EMAIL=your-receiving@email.com
+- FROM_EMAIL=your-sending@email.com
+
+These variables define the sender and recipient email addresses for submission notifications.
+
 ### 📑 How to Add Form to a Page
 
 ⚙️ [Form Configure Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-configure-guide.md)
 
 ### Frontend Integration Guide
 
-🌐 [View the guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/frontend.md) on GitHub.
+🌐 [Frontend Integration Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/frontend.md) on GitHub.
+
+### ⚙️ Plugin Settings Guide
+
+🛠️ [Plugin Settings Configuration](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-plugin-settings.md) on GitHub.
 
 ### 📸 Helpful Screenshots
 
@@ -53,6 +66,18 @@ Here are some visual steps to guide you through setup:
 ### 2. Use Form Picker in Content Manager
 
 ![Use Form Picker](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/screenshots/select-form.png?raw=true)
+
+### 3. Form Edit Page Overview
+
+This screenshot shows the **Form Edit** page where you can:
+
+- Set the form name and submit button text
+- Enable or disable confirmation email settings
+- Configure email subject and content
+- Add, edit, and reorder form fields
+- View form metadata like creation and update timestamps
+
+![Form Edit Page](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/screenshots/form-edit-page.png?raw=true)
 
 ## 🤝 Contributing
 
