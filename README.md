@@ -43,17 +43,11 @@ To enable email notifications for form submissions, add the following to your `.
 
 These variables define the sender and recipient email addresses for submission notifications.
 
-### 📑 How to Add Form to a Page
+### 📑 [How to Add Form to a Page](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-configure-guide.md)
 
-⚙️ [Form Configure Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-configure-guide.md)
+### 🌐 [Frontend Integration Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/frontend.md) on GitHub.
 
-### Frontend Integration Guide
-
-🌐 [Frontend Integration Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/frontend.md) on GitHub.
-
-### ⚙️ Plugin Settings Guide
-
-🛠️ [Plugin Settings Configuration](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-plugin-settings.md) on GitHub.
+### ⚙️ [Plugin Settings Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-plugin-settings.md) on GitHub.
 
 ### 📸 Helpful Screenshots
 
