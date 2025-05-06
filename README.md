@@ -34,6 +34,16 @@ This plugin requires Strapi v4 and compatible Node.js versions:
 
 Ensure your Node.js version matches the Strapi version you're using.
 
+## 🏁 Quick Start
+
+Get started with these core resources:
+
+### 📑 [How to Add Form to a Page](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-configure-guide.md)
+
+### 🌐 [Frontend Integration Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/frontend.md)
+
+### ⚙️ [Plugin Settings Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-plugin-settings.md)
+
 ### 📦 Environment Variables
 
 To enable email notifications for form submissions, add the following to your `.env` file:
@@ -42,12 +52,6 @@ To enable email notifications for form submissions, add the following to your `.
 - FROM_EMAIL=your-sending@email.com
 
 These variables define the sender and recipient email addresses for submission notifications.
-
-### 📑 [How to Add Form to a Page](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-configure-guide.md)
-
-### 🌐 [Frontend Integration Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/frontend.md) on GitHub.
-
-### ⚙️ [Plugin Settings Guide](https://github.com/vivek-smartshore/strapi-plugin-npm/blob/main/docs/form-plugin-settings.md) on GitHub.
 
 ### 📸 Helpful Screenshots
 
